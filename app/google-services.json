@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303950914537",
+    "project_id": "apploja-c3fa8",
+    "storage_bucket": "apploja-c3fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303950914537:android:0716ea993648d0b87a6178",
+        "android_client_info": {
+          "package_name": "br.ulbra.aula10delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303950914537-trjlgoqh2poe9ibjcu371l6erq210b90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqCee2MFWhYtdU8sYTGYM0GmXBl6TYJ5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303950914537-trjlgoqh2poe9ibjcu371l6erq210b90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
